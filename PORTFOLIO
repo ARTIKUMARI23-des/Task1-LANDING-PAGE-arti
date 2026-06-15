@@ -1,0 +1,143 @@
+Task 2
+Index.html
+HTML
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>My Portfolio</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header>
+    <h1>Archana Patel</h1>
+    <p>Web Developer | CSE Student</p>
+</header>
+
+<section class="about">
+    <img src="https://via.placeholder.com/180" alt="Profile Photo">
+    <div>
+        <h2>About Me</h2>
+        <p>
+            Hello! I am Archana Patel, a Computer Science Engineering student
+            passionate about web development and technology. I enjoy creating
+            modern, responsive, and user-friendly websites.
+        </p>
+    </div>
+</section>
+
+<section>
+    <h2>Skills</h2>
+    <ul>
+        <li>HTML</li>
+        <li>CSS</li>
+        <li>JavaScript (Basic)</li>
+        <li>Python</li>
+        <li>C Programming</li>
+    </ul>
+</section>
+
+<section>
+    <h2>Projects</h2>
+
+    <div class="project">
+        <h3>Landing Page</h3>
+        <p>A responsive landing page built using HTML and CSS.</p>
+    </div>
+
+    <div class="project">
+        <h3>Portfolio Website</h3>
+        <p>A personal portfolio website showcasing my skills and projects.</p>
+    </div>
+</section>
+
+<section>
+    <h2>Education</h2>
+    <p>B.Tech in Computer Science Engineering</p>
+</section>
+
+<section>
+    <h2>Contact</h2>
+    <p>Email: archanapatel@example.com</p>
+    <p>Phone: +91 XXXXX XXXXX</p>
+</section>
+
+<footer>
+    <p>© 2026 Archana Patel. All Rights Reserved.</p>
+</footer>
+
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>My Portfolio</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header>
+    <h1>Archana Patel</h1>
+    <p>Web Developer | CSE Student</p>
+</header>
+
+<section class="about">
+    <img src="https://via.placeholder.com/180" alt="Profile Photo">
+    <div>
+        <h2>About Me</h2>
+        <p>
+            Hello! I am Archana Patel, a Computer Science Engineering student
+            passionate about web development and technology. I enjoy creating
+            modern, responsive, and user-friendly websites.
+        </p>
+    </div>
+</section>
+
+<section>
+    <h2>Skills</h2>
+    <ul>
+        <li>HTML</li>
+        <li>CSS</li>
+        <li>JavaScript (Basic)</li>
+        <li>Python</li>
+        <li>C Programming</li>
+    </ul>
+</section>
+
+<section>
+    <h2>Projects</h2>
+
+    <div class="project">
+        <h3>Landing Page</h3>
+        <p>A responsive landing page built using HTML and CSS.</p>
+    </div>
+
+    <div class="project">
+        <h3>Portfolio Website</h3>
+        <p>A personal portfolio website showcasing my skills and projects.</p>
+    </div>
+</section>
+
+<section>
+    <h2>Education</h2>
+    <p>B.Tech in Computer Science Engineering</p>
+</section>
+
+<section>
+    <h2>Contact</h2>
+    <p>Email: archanapatel@example.com</p>
+    <p>Phone: +91 XXXXX XXXXX</p>
+</section>
+
+<footer>
+    <p>© 2026 Archana Patel. All Rights Reserved.</p>
+</footer>
+
+</body>
+</html>
